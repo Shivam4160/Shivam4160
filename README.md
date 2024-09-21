@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shivam A Tejani</h1>
 <h3 align="center">Learning full stack from India</h3>
 
